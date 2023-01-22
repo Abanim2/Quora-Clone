@@ -1,0 +1,42 @@
+.navbar {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    justify-content: space-around;
+    background-color: white;
+   
+}
+
+.imgnav{
+    cursor: pointer;
+}
+
+.container {
+    position: sticky;
+    top: 0;
+}
+
+.add {
+   background-color: orangered;
+   border: none;
+   border-radius: 5px;
+   font-size: larger;
+   text-align: center;
+   padding: 20px;
+   cursor: pointer;
+}
+
+.inputs {
+    width: 40vw;
+    height: 10vh;
+    border-radius: 10px;
+    font-size: 2vw;
+    background-color: #ccc9c9;
+    font-weight: bolder;
+    font-size: larger;
+    border: none;
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROoxYLmoiU7elF7PDbMoYSX3GLD0xRYl1mSQ&usqp=CAU');
+    background-position: px 1px; 
+    background-repeat: no-repeat;
+    box-sizing: border-box; */
+}

@@ -1,0 +1,30 @@
+.main4 {
+    background-color: rgb(192, 189, 189);
+    height: 40vh;
+    width: 30vw;
+    margin-top: 60px;
+    margin-left: 35vw;
+}
+
+.inp1 {
+    height: 5vh;
+    width: 20vw;
+    font-size: medium;
+    margin-top: 10px;
+    margin-left: 5vw;
+}
+
+.bl {
+    height: 5vh;
+    width: 20vw;
+    margin-top: 20px;
+    margin-left: 5vw;
+    cursor: pointer;
+    border-radius: 5vh;
+    border: none;
+}
+.lh {
+    padding-top: 2vh;
+    margin-left: 12vw;
+    margin-bottom: 20px;
+}

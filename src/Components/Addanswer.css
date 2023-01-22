@@ -1,0 +1,68 @@
+.main3 {
+    background-color: rgb(199, 196, 196);
+    width: 80vw;
+    height: 60vh;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+.leel{
+    float: left;
+    background-color: white;
+    width: 25vw;
+    height: 40vh;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.riir{
+    float: right;
+    background-color: white;
+    width: 50vw;
+    height: 40vh;
+    margin-top: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.aadd2{
+    float: right;
+}
+.add2 {
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    font-size: larger;
+    text-align: center;
+    padding: 20px;
+    cursor: pointer;
+    color: white;
+    margin-right: 20px;
+    margin-top: 10px;
+ }
+
+ .sq {
+    font-weight: bold;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+ }
+ .a{
+    font-weight: bold;
+    font-size: x-large;
+    margin-left: 35px;
+    color: gray;
+ }
+
+ .t2 {
+    width: 95%;
+    height: 160px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+    margin-left: 15px;
+  }

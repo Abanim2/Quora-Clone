@@ -1,0 +1,38 @@
+.main2 {
+    background-color: rgb(199, 196, 196);
+    width: 80vw;
+    height: 60vh;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+.add1 {
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    font-size: larger;
+    text-align: center;
+    padding: 20px;
+    cursor: pointer;
+    color: white;
+    margin-right: 40px;
+ }
+
+ .aadd1{
+    float: right;
+    margin-right: 50px;
+ }
+
+ .t1 {
+    width: 95%;
+    height: 60px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+    margin: 20px;
+ }
+ 
